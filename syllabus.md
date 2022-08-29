@@ -224,7 +224,7 @@ The following course outline is tentative and subject to change when and where d
 | MODULE 4 | Put Everything Together |
 | Dec., 1 | Worshop 4 | | Workshop 3 Due |
 | Dec., 5 | Worshop 4 Cont'd | |  |
-| Dec., 8 | Final Code Challenge Code Review | Workshop 4 Due |
+| Dec., 8 | Final Code Challenge Code Review | | Workshop 4 Due |
 | Dec., 12 | Final Code Challenge Code Review | |  |
 
 
