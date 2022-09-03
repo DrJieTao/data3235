@@ -199,7 +199,7 @@ The following course outline is tentative and subject to change when and where d
 | MODULE 1 | Python Fundamentals |
 | Sep., 8 | Onboarding | Syllabus, Google Classroom | |
 | Sep., 12 | Lesson 1: Preliminaries | PY4E Chapter 1 | |
-| Sep., 15 | Lab 1 | Setting up your environment | In class lab; Group Formation |
+| Sep., 15 | Lab 1: Preliminaries | Setting up your environment | In class lab; Group Formation |
 | Sep., 19 | Lesson 2: Basic Computation | PY4E Chapter 2 | Lab 1 Due |
 | Sep., 22 | Lab 2: Basic Computation | | In class lab; Quiz 1 available (Due Sep., 25) |
 | Sep., 26 | Worshop 1 | | Lab 2 Due |
